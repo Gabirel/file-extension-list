@@ -52,7 +52,7 @@ web: html htm css js jsx less scss wasm php
 code: c cc class clj cpp cs cxx el go h java lua m m4 php pl po py rb rs sh swift vb vcxproj xcodeproj xml diff patch html js
 document: doc docx ebook emlx log md msg odt org pages pdf rtf rst tex txt wpd wps bib
 image: 3dm 3ds max bmp dds gif jpg jpeg png psd xcf tga thm tif tiff yuv ai eps ps svg dwg dxf gpx kml kmz webp
-img: vmdk vmem vmsd vmsn vmss vmtm vmx
+img: raw qcow qcow2 vdi vof voa vmdk vmem vmsd vmsn vmss vmtm vmx
 audio: aac aiff ape au flac gsm it m3u m4a mid mod mp3 mpa pls ra s3m sid wav wma xm
 book: mobi epub azw1 azw3 azw4 azw6 azw cbr cbz
 exec: exe msi bin command sh bat crx out o
