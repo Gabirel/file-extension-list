@@ -13,6 +13,7 @@ iso
 jar
 lha
 mar
+pak
 pea
 rar
 rpm
@@ -25,7 +26,6 @@ tlz
 war
 whl
 xpi
+xz
 zip
 zipx
-xz
-pak

@@ -1,9 +1,7 @@
-raw
 qcow
 qcow2
+raw
 vdi
-vof
-voa
 vmdk
 vmem
 vmsd
@@ -11,3 +9,5 @@ vmsn
 vmss
 vmtm
 vmx
+voa
+vof
