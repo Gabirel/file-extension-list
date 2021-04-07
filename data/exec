@@ -1,9 +1,14 @@
 exe
 msi
 bin
-command
-sh
-bat
 crx
 out
 o
+wasm
+pyc
+i
+pyo
+p
+dat
+so
+dll

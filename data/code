@@ -18,7 +18,7 @@ po
 py
 rb
 rs
-sh		%
+sh
 swift
 vb
 vcxproj
@@ -26,5 +26,28 @@ xcodeproj
 xml
 diff
 patch
+bash
+yml
+toml
+tcsh
+fish
+zsh
+ksh
 html
+pyw
+htm
 js
+bat
+css
+less
+scss
+command
+s
+cmd
+qml
+tcl
+am
+awk
+ap
+sql
+hpp
