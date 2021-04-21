@@ -45,19 +45,15 @@ Launch this script `./render/list`
 It will print on your terminal all currently known extensions by category:
 
 ```
-video: 3g2 3gp aaf asf avchd avi drc flv m2v m4p m4v mkv mng mov mp2 mp4 mpe mpeg mpg mpv mxf nsv ogg ogv ogm qt rm rmvb roq srt svi vob webm wmv yuv
-slide: ppt odp
-archive: 7z a apk ar bz2 cab cpio deb dmg egg gz iso jar lha mar pea rar rpm s7z shar tar tbz2 tgz tlz war whl xpi zip zipx xz pak
-web: html htm css js jsx less scss wasm php
-code: c cc class clj cpp cs cxx el go h java lua m m4 php pl po py rb rs sh swift vb vcxproj xcodeproj xml diff patch html js
-document: doc docx ebook emlx log md msg odt org pages pdf rtf rst tex txt wpd wps bib
-image: 3dm 3ds max bmp dds gif jpg jpeg png psd xcf tga thm tif tiff yuv ai eps ps svg dwg dxf gpx kml kmz webp
-img: raw qcow qcow2 vdi vof voa vmdk vmem vmsd vmsn vmss vmtm vmx
-audio: aac aiff ape au flac gsm it m3u m4a mid mod mp3 mpa pls ra s3m sid wav wma xm
-book: mobi epub azw1 azw3 azw4 azw6 azw cbr cbz
-exec: exe msi bin command sh bat crx out o
-font: eot otf ttf woff woff2
-sheet: ods xls xlsx csv ics vcf
+video: 3g2 3gp aaf asf avchd avi drc flv m2v m4p m4v mkv mng mov mp2 mp4 mpe mpeg mpg mpv mxf nsv ogg ogm ogv qt rm rmvb roq srt svi vob webm wmv yuv
+archive: 7z a apk ar bz2 cab cpio deb dmg egg gz iso jar lha mar pak pea rar rpm s7z shar tar tbz2 tgz tlz war whl xpi xz zip zipx
+code: am ap awk bash bat c cc class clj cmd command cpp cs css cxx diff el fish go h hpp htm html java js ksh less lua m m4 patch php pl po py pyw qml r rb rs s scss sh sql swift tcl tcsh toml vb vcxproj xcodeproj xml yml zsh
+document: bib bst cfg conf csv doc docx ebook emlx eot fig ics inc ini json log md msg odp ods odt org otf pages pdf ppt pptx rst rtf tex ttf txt vcf woff woff2 wpd wps xls xlsx
+image: 3dm 3ds ai bmp dds dwg dxf eps gif gpx jpeg jpg kml kmz max png ps psd svg tga thm tif tiff webp xcf yuv
+img: qcow qcow2 raw vdi vmdk vmem vmsd vmsn vmss vmtm vmx voa vof
+audio: aac aiff ape au dts flac gsm it m3u m4a mid mod mp3 mpa pls ra s3m sid wav wma xm
+book: azw azw1 azw3 azw4 azw6 cbr cbz epub mobi
+exec: bin crx dat dll exe i msi o out p pyc pyo so wasm
 ```
 
 ## Code
